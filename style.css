@@ -48,3 +48,55 @@ header {
     display: flex;
     align-items: center;
 }
+
+.sec1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15vh;
+}
+
+.robot {
+    display: grid;
+    align-items: center;
+}
+
+.txtArea2 {
+    display: flex;
+    align-items: center;
+    gap: 5vh;
+    justify-content: center;
+    margin-top: 8vh;
+}
+
+
+
+.rbt {
+    width: 45vh;
+}
+
+.sec2 {
+    text-align: justify;
+}
+
+
+.btn1 {
+     background-color: #3DD984;
+     padding: 2vh;
+     border: none;
+     border-radius: 1.2vh;
+     margin-top: 2vh;
+}
+
+.txt {
+    color: #bbbaba;
+}
+
+
+
+
+.sec2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8vh;
+
+}

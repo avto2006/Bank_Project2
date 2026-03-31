@@ -22,8 +22,11 @@ nav {
     gap: 5vh;
 }
 
-.gtStarted {
-   
+.getStart {
+   border: 3px solid #4FCF89;
+   width: fit-content;
+   padding: 2.5vh;
+   border-radius: 45px;
 }
 
 .discount {

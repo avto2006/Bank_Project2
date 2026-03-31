@@ -1,4 +1,47 @@
+body {
+    background-color: #00040F;
+    color: white;
+}
+
+
+span {
+    color: #4FCF89;
+}
+
 a {
     text-decoration: none;
     color: white;
+}
+
+.spn {
+    color: white;
+}
+
+nav {
+    display: flex;
+    gap: 5vh;
+}
+
+.gtStarted {
+   
+}
+
+.discount {
+    color: #bbbaba;
+    background:linear-gradient(45deg, #272727, #11101D);
+    width: fit-content;
+    padding: 0.9vh;
+    border-radius: 5px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50vh;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
 }

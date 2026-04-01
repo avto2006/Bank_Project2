@@ -203,5 +203,44 @@ footer {
 /* Mobile */
 @media screen and (max-width: 480px) {
     
+    header {
+        display: grid;
+        gap: 2vh;
+    }
+
+    .logo {
+        margin-left: 8vh;
+    }
+
+    .sec1 {
+        justify-content: center;
+        margin-left: 4vh;
+    }
+
+    section {
+        margin-top: 10vh;
+    }
+
+    .txt_area1 {
+        font-size: 12px;
+    }
+
+    .rbt.rb {
+        width: 32vh;
+    }
+
+    .txtArea2 {
+      display: none;
+    }
+
+    .sec2 {
+        display: grid;
+        text-align: center;
+    }
+
+    .ic {
+        margin-left: 8vh;
+        margin-top: 5vh;
+    }
 }
 

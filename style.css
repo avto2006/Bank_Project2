@@ -202,6 +202,8 @@ footer {
 
 /* Mobile */
 @media screen and (max-width: 480px) {
+
+    
     
     header {
         display: grid;
@@ -241,6 +243,43 @@ footer {
     .ic {
         margin-left: 8vh;
         margin-top: 5vh;
+    }
+
+    .sec3 {
+        display: grid;
+    }
+
+    .bbr{
+        width: 40vh;
+    }
+
+    .txtArea4 {
+        font-size: 2vh;
+    }
+
+    .commentsArea {
+        display: grid;
+        gap: 7vh;
+    }
+    
+    .txtArea5 {
+        display: grid;
+        text-align: center;
+    }
+
+    .box {
+        width: 20vh;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .crypto {
+        display: none;
+    }
+
+    .hhr {
+        width: 43vh;
+        margin-top: 7vh;
     }
 }
 

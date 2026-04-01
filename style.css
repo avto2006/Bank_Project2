@@ -127,10 +127,22 @@ header {
 
 .txtArea4 {
     display: grid;
+    font-size: 20px;
 }
 
 .store {
     display: flex;
     align-items: center;
     gap: 3vh;
+    margin-top: 7vh;
+}
+
+.txtArea5 {
+    display: flex;
+    align-items: center;
+}
+
+
+.sec4 {
+     display: grid;
 }

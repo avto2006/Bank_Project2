@@ -176,3 +176,16 @@ header {
     justify-content: space-around;
     align-items: center;
 }
+
+.hhr {
+    margin-top: 15vh;
+    width: 180vh;
+}
+
+.txtArea6 {
+    margin-top: 4vh;
+}
+
+footer {
+    text-align: center;
+}

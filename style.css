@@ -8,6 +8,10 @@ span {
     color: #4FCF89;
 }
 
+section {
+    margin-top: 30vh;
+}
+
 a {
     text-decoration: none;
     color: white;
@@ -52,7 +56,6 @@ header {
 .sec1 {
     display: flex;
     justify-content: space-around;
-    margin-top: 15vh;
 }
 
 .robot {
@@ -74,9 +77,7 @@ header {
     width: 45vh;
 }
 
-.sec2 {
-    text-align: justify;
-}
+
 
 
 .btn1 {
@@ -97,7 +98,7 @@ header {
 .sec2 {
     display: flex;
     justify-content: space-around;
-    margin-top: 8vh;
+    text-align: justify;
 
 }
 
@@ -116,4 +117,20 @@ header {
     border-radius: 2vh;
     width: 27vh;
     
+}
+
+.sec3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.txtArea4 {
+    display: grid;
+}
+
+.store {
+    display: flex;
+    align-items: center;
+    gap: 3vh;
 }

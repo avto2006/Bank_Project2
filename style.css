@@ -194,9 +194,32 @@ footer {
 
 /* Tablet */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     
+     header {
+        gap: 3vh;
+     }
 
+     .txtArea5 {
+        display: grid;
+        text-align: center;
+     }
+
+     .crypto {
+        display: none;
+     }
+
+     .commentsArea {
+        gap: 3vh;
+        margin-right: 3vh;
+        
+     }
+
+     .x3 {
+        display: none;
+     }
+
+     
 }
 
 

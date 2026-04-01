@@ -205,6 +205,10 @@ footer {
         text-align: center;
      }
 
+     .icon_area {
+        margin-right: 3vh;
+     }
+
      .crypto {
         display: none;
      }

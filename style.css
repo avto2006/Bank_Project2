@@ -140,9 +140,28 @@ header {
 .txtArea5 {
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
+}
+
+.commentsArea {
+    display: flex;
+    align-items: center;
+    gap: 25vh;
+    margin-top: 14vh;
+    
 }
 
 
+.box {
+    background:linear-gradient(45deg, #272727, #11101D);
+    padding: 8vh;
+    font-size: 18px;
+    height: 30vh;
+    text-align: justify;
+}
+
 .sec4 {
      display: grid;
+     justify-content: center;
+    
 }

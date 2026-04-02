@@ -211,6 +211,10 @@ footer {
         text-align: center;
 }
 
+input {
+    text-align: center;
+}
+
 .send {
     margin-top: 2vh;
     width: 12vh;

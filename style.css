@@ -293,13 +293,16 @@ input {
 /* Mobile */
 @media screen and (max-width: 480px) {
 
-    body {
-        overflow: hidden;
-    }
+   
     
     header {
         display: grid;
         gap: 2vh;
+    }
+
+    .registrer_box {
+        margin-left: 2vh;
+        margin-top: 5vh;
     }
 
     .logo {

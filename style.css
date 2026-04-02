@@ -215,6 +215,10 @@ input {
     text-align: center;
 }
 
+.app {
+    cursor: pointer;
+}
+
 .send {
     margin-top: 2vh;
     width: 12vh;

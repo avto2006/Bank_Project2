@@ -2,6 +2,8 @@ const registrerBox = document.querySelector('.registrer_box');
 const iconArea =  document.querySelector('.icon_area');
 const namee = document.querySelector('.name')
 const email = document.querySelector('.email')
+const app = document.querySelector('.app')
+
 
 const func1 = () => {
         registrerBox.style.display = 'grid';
@@ -16,4 +18,9 @@ const func2 = () => {
         } else {
            alert("Please fill in at least the name and email fields.")
         }
+}
+
+
+const func3 = () => {
+      alert("Find the app called - TWO BANK")
 }

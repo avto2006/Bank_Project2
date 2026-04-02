@@ -196,6 +196,54 @@ footer {
 }
 
 
+ .registrer_box {
+        display: none;
+        grid-template-columns: 2 1fr;
+        width: 10vh;
+        gap: 2vh;
+        background-color: #272727;
+        width: 30vh;
+        padding: 4vh;
+        border-radius: 3vh;
+        animation: regAnim 4s;
+        border: 4px solid #3DD984;
+        justify-content: center;
+        text-align: center;
+}
+
+.send {
+    margin-top: 2vh;
+    width: 12vh;
+    margin: 0 auto;
+    padding: 1vh;
+    border: 2px solid #3DD984;
+    background-color: #272727;
+    border-radius: 1.5vh;
+    color: white;
+}
+
+.send:hover {
+    background-color: #3DD984;
+    transition: ease-out 2s;
+}
+
+input {
+    width: 20vh;
+    padding: 0.5vh;
+}
+
+
+@keyframes regAnim {
+     from {
+            transform: translate(-550px);
+     }
+
+     to {
+            transform: translate(0);
+     }
+}
+
+
 /* Tablet */
 
 @media screen and (max-width: 1024px) {
@@ -226,6 +274,7 @@ footer {
      .x3 {
         display: none;
      }
+
 
      
 }

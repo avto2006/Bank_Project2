@@ -301,7 +301,7 @@ input {
     }
 
     .registrer_box {
-        margin-left: 3.5vh;
+        margin-left: 4.5vh;
         margin-top: 5vh;
     }
 
@@ -336,7 +336,7 @@ input {
     }
 
     .ic {
-        margin-left: 8vh;
+        margin-left: 11vh;
         margin-top: 5vh;
     }
 
@@ -367,6 +367,7 @@ input {
         border-radius: 10px;
         text-align: center;
         margin-left: 3.5vh;
+        padding: 2.5vh;
     }
 
     .crypto {
